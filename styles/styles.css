@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1600px;
+}
+
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    
+ }
+ .logo{
+    width: 80px;
+ }
+
+.hero-msg {
+    text-align: center;
+}
+.rivers-card {
+    text-align: center;
+    margin: 200px 0;
+}
+.camping-card {
+    text-align: center;
+    margin: 200px 0;
+}
+.rapids-card  {
+    text-align: center;
+    margin: 200px 0;
+}
+.msg {
+    background-color:#48cae4;
+    line-height: 1.5em;
+    text-align: center;
+    padding: 35px;
+
+}
+.msg a {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 0.8em;
+}
+.msg p {
+    font-size: 0.8em;
+    padding-bottom: 15px;
+}
+.book{
+    text-decoration: none;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+    
+
+}
+main section img {
+    box-sizing: border-box;
+}
+.join{
+    text-decoration: none;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+#background {
+    height: 725px;
+    background-color: #fdf6e3;
+}
+body {
+    background-color: #f1faee;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0; 
+}
+header {
+    background-color:#caf0f8
+}
+.button-box{
+    align-items: center;
+}
+nav a:hover {
+    background-color:#d9c2a3;
+}
+#logo_link{
+    padding-top: 5px;
+
+}
+footer {
+    background-color:#48cae4;
+    margin: 5px;
+    padding: 25px 50px;
+    padding-top: 15px;
+    margin-top: 200px;
+    
+}
+.book:hover {
+    background-color:#48cae4;
+}
+
+.join:hover {
+    background-color:#d9c2a3;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+#hero-box{
+    width: 1500px;
+
+} 
+#hero-img {
+    width: 1500px;
+}
+.mountaing{
+    padding: 10px;
+    margin: 10px;
+}
+.social img {
+    padding-top: 15px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+nav a {
+    text-align: center;
+    color: #03045e;
+    text-decoration: none;
+    padding: 15px 30px;
+}
+h1 {
+    color:#03045e;
+} 
+h2 {
+    color:#03045e;
+    margin: 0;
+}
+h3 { 
+    color:#03045e;
+}
+h4{
+    color:#03045e; 
+    text-align: center;
+    margin-top:10px;
+}
+h5 {
+    color:#03045e;
+} 
+h6{
+    color:#03045e;
+} 
+
+footer p {
+    font-size: 1.2em;
+}
+.icon {
+    width: 80px;
+}
+      
+ 
+footer p a:hover {
+    text-decoration: underline;
+}
+footer a {
+    text-decoration: none;
+    color: #03045e;
+}
+
